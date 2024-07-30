@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .NET Coder </>
 --------------
 
-Highly skilled full-stack developer with experience in both front-end and back-end development. Possesses strong proficiency in C# and C++, adept at applying Object-Oriented Programming (OOP) principles. Understands and implements SOLID principles for clean and maintainable code. Experienced in utilizing design patterns to solve complex software problems. Front-end Expertise: Skilled in web development using HTML, CSS, and JavaScript. Experience with a popular front-end framework like Angular. Back-end Expertise: Well-versed in building web APIs using frameworks like ASP.NET Core. Comfortable working with databases and data access layers. Additional Skills: Proficient in using version control systems like Git and code hosting platforms like GitHub. Strong understanding of algorithms and data structures, essential for efficient problem solving.
-
 * 🌍  I'm based in Tripoli
 * ✉️  You can contact me at [saedm896@gmail.com](mailto:saedm896@gmail.com)
 * 🧠  I'm learning React
